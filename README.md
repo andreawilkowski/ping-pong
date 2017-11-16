@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a project website.  The objective is to gather user input via a form and return various different results based on this input. This site utilizes CSS, HTML, Bootstrap, JavaScript, and jQuery. _
+_This is a project website.  The objective is to gather user input via a form and return different results based on this input. This site utilizes CSS, HTML, Bootstrap, JavaScript, and jQuery. _
 
 ### Project Specifications
 
@@ -20,7 +20,7 @@ _This is a project website.  The objective is to gather user input via a form an
 * _clone this repository to the location of your choice_
 * _click on the vacation-project file for your viewing pleasure_
 
-## Here is a link to my [site](https://andreawilkowski.github.io/vacation-project/)
+### Here is a link to my [site](https://github.com/andreawilkowski/ping-pong)
 ## Support and contact details
 
 _Please contact Andrea Wilkowski with any questions or comments._
