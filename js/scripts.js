@@ -22,13 +22,13 @@ console.log(inputArray);
 $(document).ready(function(){
   $("form").submit(function(event) {
     event.preventDefault();
-  });
-});
-
-var number = parseInt($("input#number").val());
-var result = inputArray(number);
+$( "ul" ).empty();
+var input = parseInt($("input#number").val());
+var result = inputArray(input);
 result.forEach(function(result){
-  $(".result").show(result);
   $("ul").append("<li>" + result + "</li>");
 });
-alert(result);
+//alert(result);
+$(".result").show(result);
+});
+});
